@@ -4,4 +4,4 @@ night
 morning
 bad
 good
-today is friday
+
